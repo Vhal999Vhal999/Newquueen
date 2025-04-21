@@ -2,7 +2,7 @@
     ──「 ʜᴏɴᴇʏ 🌙 ᴍᴜsɪᴄ 」──
 
     ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mrhoneyxd07/strawberryXMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Vhal999Vhal999/Newquueen)
 ---
 
 ### 🔧 Quick Setup
